@@ -1,0 +1,11 @@
+heme : night
+
+layout : center-right
+
+highlight : ir-black
+
+code-line-numbers : true
+
+published : false
+
+footnote : "OAS: the specification for creating REST APIs"
