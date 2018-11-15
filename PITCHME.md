@@ -167,8 +167,8 @@ components:
 ### Alternatives
 
 @ul
-- (API Blueprint)[https://apiblueprint.org/]
-- (RAML)[https://raml.org/]
+- [API Blueprint](https://apiblueprint.org/)
+- [RAML](https://raml.org/)
 @ulend
 
 ---
