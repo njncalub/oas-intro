@@ -4,7 +4,7 @@ The specification for RESTful interfaces.
 
 ---
 
-# It specifies
+### It specifies
 
 @ul
 - Available endpoints (/users) and operations on each endpoint (GET /users, POST /users)
@@ -15,7 +15,7 @@ The specification for RESTful interfaces.
 
 ---
 
-# Notable Uses
+### Notable Uses
 
 @ul
 - Automated documentation
@@ -25,7 +25,7 @@ The specification for RESTful interfaces.
 
 ---
 
-# Example Pet Store API
+### Example Pet Store API
 
 ```yaml
 openapi: "3.0.0"
@@ -157,11 +157,13 @@ components:
 
 ---
 
-# Example
+### Example
+
+- [Live petstore example](https://petstore.swagger.io/)
 
 ---
 
-# Alternatives
+### Alternatives
 
 @ul
 - API Blueprint
@@ -170,10 +172,8 @@ components:
 
 ---
 
-# Open Source!
+### Open Source!
 
 - [Awesome Swagger](https://github.com/DragorWW/awesome-swagger)
 - [OpenAPI Tools](https://openapi.tools/)
-- [Live petstore example](https://petstore.swagger.io/)
 - [widdershins](https://github.com/Mermade/widdershins)
-
