@@ -15,7 +15,7 @@ The specification for RESTful interfaces.
 
 ---
 
-### Notable Uses
+### Can be used for
 
 @ul
 - Automated documentation
