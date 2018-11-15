@@ -160,17 +160,15 @@ components:
 
 ---
 
-### Example
-
-- [Live petstore example](https://petstore.swagger.io/)
+## [Live petstore example](https://petstore.swagger.io/)
 
 ---
 
 ### Alternatives
 
 @ul
-- API Blueprint
-- RAML
+- (API Blueprint)[https://apiblueprint.org/]
+- (RAML)[https://raml.org/]
 @ulend
 
 ---
