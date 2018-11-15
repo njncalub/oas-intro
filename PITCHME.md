@@ -1,6 +1,6 @@
 # OAS
 
-The specification for REST interfaces.
+The specification for RESTful interfaces.
 
 ---
 
