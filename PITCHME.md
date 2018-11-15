@@ -173,6 +173,10 @@ components:
 
 ---
 
+### [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer)
+
+---
+
 ### Open Source!
 
 - [Awesome Swagger](https://github.com/DragorWW/awesome-swagger)
