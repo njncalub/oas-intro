@@ -4,6 +4,8 @@ The specification for REST interfaces.
 
 ---
 
+# It specifies
+
 @ul
 - Available endpoints (/users) and operations on each endpoint (GET /users, POST /users)
 - Operation parameters Input and output for each operation
@@ -12,6 +14,18 @@ The specification for REST interfaces.
 @ulend
 
 ---
+
+# Notable Uses
+
+@ul
+- Automated documentation
+- Code generation
+- Test-case generation
+@ulend
+
+---
+
+# Example Pet Store API
 
 ```yaml
 openapi: "3.0.0"
@@ -143,16 +157,6 @@ components:
 
 ---
 
-# Uses
-
-@ul
-- Automated documentation
-- Code generation
-- Test-case generation
-@ulend
-
----
-
 # Example
 
 ---
@@ -163,3 +167,13 @@ components:
 - API Blueprint
 - RAML
 @ulend
+
+---
+
+# Open Source!
+
+- [Awesome Swagger](https://github.com/DragorWW/awesome-swagger)
+- [OpenAPI Tools](https://openapi.tools/)
+- [Live petstore example](https://petstore.swagger.io/)
+- [widdershins](https://github.com/Mermade/widdershins)
+
