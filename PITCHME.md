@@ -25,7 +25,7 @@ The specification for RESTful interfaces.
 
 ---
 
-### Example Pet Store API
+### [Example Pet Store API](https://petstore.swagger.io/)
 
 ```yaml
 openapi: "3.0.0"
@@ -157,10 +157,6 @@ components:
 @[84-95]
 @[96-99]
 @[100-109]
-
----
-
-## [Live petstore example](https://petstore.swagger.io/)
 
 ---
 
